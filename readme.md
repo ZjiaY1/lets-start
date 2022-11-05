@@ -2,21 +2,19 @@
 
 :::danger
 需要大家填写的地方为
-
 1.github的主页地址：参考示例
-
 2.表格部分直接复制即可
+3.写上语雀知识库地址
 :::
 
 ## Github
 
-github地址：https://github.com/ZjiaY1/lets-start
+github地址：
 
 ## Timeline
 
 :::info
 上课期间的代码任务需要及时完成并更新此文档中的仓库链接
-
 如有特殊情况或者建议请在备注中填写~
 :::
 | 序号 | 课程主题 | 代码仓库链接 | 备注 |
@@ -61,3 +59,6 @@ github地址：https://github.com/ZjiaY1/lets-start
 | 38 | pwa |  |  |
 | 39 | react native |  |  |
 | 40 | electron |  |  |
+
+## 语雀知识库地址 
+地址：[https://www.yuque.com/zjiay/zf8go7](https://www.yuque.com/zjiay/zf8go7)
